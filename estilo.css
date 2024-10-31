@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  font-family: helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+
+.contenedor{
+    width: 30%;
+    padding: 20px;
+}
+
+.cards{
+    margin-top: 60px !important;
+}
+
+.slide img{
+    width: 220px;
+}
+
+.info{
+    text-align: left;
+    margin-top: 20px;
+    font-weight: lighter;
+}
+
+.info h1{
+    font-size: 40px;
+}
+
+.info h3{
+    font-size: 20px;
+    margin-top: 30px;
+    color: rgb(70, 70, 199);
+}
+
+.info p{
+    margin-top: 20px;
+    color: #a7a7a7;
+    font-weight: bold;
+}
+
+.flechas{
+    margin-left: 150px;
+}
