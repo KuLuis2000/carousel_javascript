@@ -61,7 +61,13 @@
 
   .flechas {
     margin-left: 0px;
-    margin-top: 10px;
+    margin-top: -30px;
+    margin-bottom: 30px;
+    order: 0;
+  }
+
+  .info{
+    order: 1;
   }
 
   #carousel {
